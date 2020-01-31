@@ -5,7 +5,7 @@ author:
 homepage:
 
 dependencies:
-  uuid: ^1.0.3
+  uuid: ^2.0.4
   flutter:
     sdk: flutter
 environment:
